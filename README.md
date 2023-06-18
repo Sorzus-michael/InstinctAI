@@ -23,7 +23,7 @@ Instrazam is licensed under the [GPL-3.0 License](https://opensource.org/license
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [Instrazam GitHub repository](https://github.com/your-username/Instrazam).
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [Instrazam GitHub repository](https://github.com/Sorzus-michael/Instrazam).
 
 ## Acknowledgements
 

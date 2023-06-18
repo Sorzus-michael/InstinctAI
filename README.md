@@ -1,6 +1,7 @@
 # Instrazam
-# ***IN PROTOTYPE STAGE RELEASE DATE:6th of july 2023***
+# ***IN PROTOTYPE STAGE***
 # ***WORKS WITH NO ERRORS ON RHYTHMICALLY SIMPLE SONGS***
+# ****RELEASE DATE:6th of july 2023****
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 

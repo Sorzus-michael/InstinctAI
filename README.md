@@ -1,11 +1,11 @@
-# Instrazam
+# InstinctAI
 # ***IN PROTOTYPE STAGE***
 # ***WORKS WITH NO ERRORS ON INSTRUMENTALLY SIMPLE SONGS***
 # ****RELEASE DATE:6th of july 2023****
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
-Instrazam is a C++ AI library that allows you to determine what instruments were used in a song. It utilizes advanced audio analysis techniques and machine learning algorithms to accurately identify the instruments present in the audio tracks.
+InstinctAI is a C++ AI library that allows you to determine what instruments were used in a song. It utilizes advanced audio analysis techniques and machine learning algorithms to accurately identify the instruments present in the audio tracks.
 
 ## Features
 
@@ -22,11 +22,11 @@ Instrazam is a C++ AI library that allows you to determine what instruments were
 
 ## License
 
-Instrazam is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0). See the [LICENSE](LICENSE) file for more details.
+InstinctAI is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0). See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [Instrazam GitHub repository](https://github.com/Sorzus-michael/Instrazam).
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [InstinctAI GitHub repository](https://github.com/Sorzus-michael/InstinctAI).
 
 ## Acknowledgements
 
